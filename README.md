@@ -1,5 +1,5 @@
-<a href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Walid</h1>
+<a href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
 <p align="left">
     <img
         src="https://komarev.com/ghpvc/?username=whaleaid&label=Profile%20views&color=0e75b6&style=flat"
@@ -11,8 +11,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=whaleaid" alt="whaleaid" />
     </a>
 </p>
-- 📫 How to reach me **khalqallahwalid@gmail.com**
-**hello**
+- 📫 How to reach me khalqallahwalid@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
