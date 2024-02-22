@@ -1,4 +1,5 @@
 <a align="center" href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -145,12 +146,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=whaleaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whaleaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
