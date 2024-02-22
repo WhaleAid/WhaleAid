@@ -1,9 +1,4 @@
-<a href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=whaleaid&label=Profile%20views&color=0e75b6&style=flat"
-        alt="whaleaid" />
-</p>
+<a align="center" href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -144,4 +139,10 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" />
     </a>
+</p>
+
+<p align="left">
+    <img
+        src="https://komarev.com/ghpvc/?username=whaleaid&label=Profile%20views&color=0e75b6&style=flat"
+        alt="whaleaid" />
 </p>
