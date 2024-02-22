@@ -1,6 +1,5 @@
 <div align="center">
 <a align="left" href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
-<img align="right" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 </div>
 <br/>
 <p align="left">
