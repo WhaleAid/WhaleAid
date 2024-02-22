@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
-  <img src="[https://github-readme-stats.vercel.app/api?username=whaleaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" ](https://github-readme-stats.vercel.app/api?username=whaleaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22)alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=whaleaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whaleaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
