@@ -1,13 +1,11 @@
 <div align="center">
-<a align="left" href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=wide&r=tov" width="652" alt="Walid Khalqallah's Dev Card"/></a>
-</div>
-<img src="https://raw.githubusercontent.com/whaleaid/whaleaid/output/snake.svg" alt="Snake animation" />
-<br/>
-<p align="center">
+<a href="https://app.daily.dev/whaleaid"><img src="https://api.daily.dev/devcards/v2/XQpIuU2S3XCqidgqfpush.png?type=default&r=m2j" width="356" alt="Walid Khalqallah's Dev Card"/></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=whaleaid&theme=onedark&row=2&column=3" alt="whaleaid" />
     </a>
-</p>
+</div>
+<img src="https://raw.githubusercontent.com/whaleaid/whaleaid/output/snake.svg" alt="Snake animation" />
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
